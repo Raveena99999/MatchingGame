@@ -36,7 +36,7 @@ To run Sears locally, follow these steps:
 3. Navigate to the project directory:`cd MatchingGame`
 4. Start the project: `npm run dev`
 
-## Acknowledgements
+## Acknowledgement
 
 - The concept for this matching game was sparked by the idea of creating an interactive and entertaining educational experience.
 - We extend our sincere appreciation to the open-source community for their generous contributions to the tools and resources utilized in the development of this game.
